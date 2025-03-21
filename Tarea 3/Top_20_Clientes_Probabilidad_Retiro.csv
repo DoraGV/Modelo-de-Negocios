@@ -1,0 +1,21 @@
+Early_Retirement|Genero|Enfermedad|Educacion|Estado_Civil|Salario|Empleado|Dependientes|Tasa_desempleo|Mercado|Credit_score|Gov_Bonos|Probabilidad_Retiro_Temprano|Predicted_Early_Retirement
+Retiro Antes de 65|Masculino|Tiene Enfermedad|Primaria/Secundaria|Soltero|15000|Empleador|4|2.93965649|19520.66667|693|8.896666667|0.9826630649353002|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Soltero|16000|Empleador|4|4.2|43587.5|620|6.165|0.9798936756771863|1
+Retiro Después de 65|Masculino|Sin Enfermedad|Posgrado|Soltero|15000|Empleador|4|3.4686843|14487.16667|734|8.983333333|0.9785152026089984|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Casado|16000|Empleador|4|4.92918489|41229.83333|678|5.91|0.9762159833431305|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Soltero|18000|Empleador|4|5.35396094|31577.33333|699|7.701083333|0.9758222426119426|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Soltero|16000|Empleador|4|5.36220735|35583.16667|786|6.431666667|0.9720034733412255|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Posgrado|Casado|26000|Empleador|4|2.93965649|19520.66667|624|8.896666667|0.971573422245248|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Posgrado|Casado|27000|Empleador|4|3.22742853|30804.0|690|8.431666667|0.971361250592175|1
+Retiro Después de 65|Masculino|Sin Enfermedad|Primaria/Secundaria|Casado|18000|Empleado|4|5.34449117|22755.0|601|7.940833333|0.9708810653024649|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Casado|28000|Empleador|4|3.52061247|30573.16667|660|7.733416667|0.9708463693937418|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Posgrado|Soltero|27000|Empleador|4|3.22742853|30804.0|652|8.431666667|0.9702825182129906|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Universidad|Soltero|26000|Empleador|4|3.71008358|27256.0|659|7.8225|0.9700691228319418|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Posgrado|Soltero|15000|Empleado|4|3.22742853|30804.0|659|8.431666667|0.9698874127220999|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Primaria/Secundaria|Soltero|19000|Empleado|4|5.35396094|31577.33333|695|7.701083333|0.9696761636749378|1
+Retiro Antes de 65|Masculino|Tiene Enfermedad|Posgrado|Casado|15000|Empleador|4|2.93965649|19520.66667|678|8.896666667|0.9695670443116459|1
+Retiro Antes de 65|Masculino|Tiene Enfermedad|Universidad|Soltero|15000|Empleador|4|2.96690257|16516.83333|735|8.589166667|0.9694288828846054|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Doctorado|Soltero|15000|Empleador|4|4.29406689|44425.83333|602|5.8425|0.9692389061037753|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Doctorado|Soltero|17000|Empleador|4|3.71008358|27256.0|792|7.8225|0.9686790075777377|1
+Retiro Antes de 65|Masculino|Tiene Enfermedad|Universidad|Casado|16000|Empleador|4|3.66114181|20563.0|677|8.315833333|0.9683660197880304|1
+Retiro Antes de 65|Masculino|Sin Enfermedad|Posgrado|Casado|18000|Empleador|4|5.0356035|19439.0|702|8.024166667|0.9682829633991501|1
